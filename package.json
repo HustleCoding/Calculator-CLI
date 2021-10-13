@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HustleCoding/Calculator-CLI#readme",
   "dependencies": {
+    "@types/readline-sync": "^1.4.4",
     "readline-sync": "^1.4.10"
   }
 }
